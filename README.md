@@ -17,3 +17,9 @@ https://learn.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-i
 https://learn.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm
 **Management UI**
 https://github.com/mguinness/IdentityManagerUI
+
+## OIDC
+**Social Login**
+https://learn.microsoft.com/en-us/aspnet/core/security/authentication/social/
+**Social Login Examples**
+https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/security/authentication/social
