@@ -120,3 +120,20 @@ https://learn.microsoft.com/en-us/dotnet/api/overview/azure/service-to-service-a
 
 **Managed Identity with Azure App Service and Functions**
 https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity
+
+##Todo Example Apps
+**Front-end TodoMVC**
+https://todomvc.com/
+
+**API Todo-Backend**
+http://www.todobackend.com/
+
+##IdentityServer
+**Duende IdentityServer**
+https://duendesoftware.com/products/identityserver
+
+**IdentityServer documentation**
+https://docs.duendesoftware.com/identityserver/v6/overview/
+
+**IdentityServer Quickstarts and Samples**
+https://github.com/DuendeSoftware/Samples/tree/main/IdentityServer/v6/Quickstarts
