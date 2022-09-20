@@ -93,3 +93,30 @@ https://learn.microsoft.com/en-us/aspnet/core/security/authorization/policies
 
 **Resource-based AuthZ**
 https://learn.microsoft.com/en-us/aspnet/core/security/authorization/resourcebased
+
+##Azure
+
+**Getting Started with Azure 10-Part Series**
+https://azure.microsoft.com/en-us/get-started/webinar/on-demand/
+
+##Azure Key Vault
+
+**Creating a Key Vault**
+https://learn.microsoft.com/en-us/azure/key-vault/general/quick-create-cli
+
+**Connecting to Key Vault from Azure App Service**
+https://learn.microsoft.com/en-us/azure/key-vault/general/tutorial-net-create-vault-azure-web-app
+
+**.NET Core and Key Vault Sample**
+https://github.com/Azure-Samples/key-vault-dotnet-core-quickstart
+
+**Key Vault from App Service with Managed Identity Sample**
+https://github.com/Azure-Samples/app-service-msi-keyvault-dotnet
+
+**Local Dev and non-Managed Identity with a Connection String or Environment Variable**
+https://learn.microsoft.com/en-us/dotnet/api/overview/azure/service-to-service-authentication#running-the-application-using-a-service-principal
+
+##Azure Managed Identity
+
+**Managed Identity with Azure App Service and Functions**
+https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity
