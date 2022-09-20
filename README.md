@@ -40,7 +40,7 @@ https://learn.microsoft.com/en-us/aspnet/core/security/authentication/social/
 **Social Login Examples**
 https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/security/authentication/social
 
-## JWT 
+## JWT
 
 **Auth0 JWT Decoder**
 https://jwt.io/
@@ -54,7 +54,8 @@ https://www.rfc-editor.org/rfc/rfc7519
 **JWT RFC Spec IANA page**
 https://www.iana.org/assignments/jwt/jwt.xhtml
 
-## Microsoft Identity Platform ##
+## Microsoft Identity Platform
+
 **Development Docs**
 https://learn.microsoft.com/en-us/azure/active-directory/develop/
 
@@ -74,7 +75,7 @@ https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2
 **SPA App Tutorial**
 https://learn.microsoft.com/en-us/azure/active-directory/develop/single-page-app-quickstart
 
-##Authorization
+## Authorization
 
 **ContactManager Sample App**
 https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/security/authorization/secure-data/samples/
@@ -94,12 +95,12 @@ https://learn.microsoft.com/en-us/aspnet/core/security/authorization/policies
 **Resource-based AuthZ**
 https://learn.microsoft.com/en-us/aspnet/core/security/authorization/resourcebased
 
-##Azure
+## Azure
 
 **Getting Started with Azure 10-Part Series**
 https://azure.microsoft.com/en-us/get-started/webinar/on-demand/
 
-##Azure Key Vault
+## Azure Key Vault
 
 **Creating a Key Vault**
 https://learn.microsoft.com/en-us/azure/key-vault/general/quick-create-cli
@@ -116,19 +117,21 @@ https://github.com/Azure-Samples/app-service-msi-keyvault-dotnet
 **Local Dev and non-Managed Identity with a Connection String or Environment Variable**
 https://learn.microsoft.com/en-us/dotnet/api/overview/azure/service-to-service-authentication#running-the-application-using-a-service-principal
 
-##Azure Managed Identity
+## Azure Managed Identity
 
 **Managed Identity with Azure App Service and Functions**
 https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity
 
-##Todo Example Apps
+## Todo Example Apps
+
 **Front-end TodoMVC**
 https://todomvc.com/
 
 **API Todo-Backend**
 http://www.todobackend.com/
 
-##IdentityServer
+## IdentityServer
+
 **Duende IdentityServer**
 https://duendesoftware.com/products/identityserver
 
