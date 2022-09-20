@@ -74,7 +74,7 @@ https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2
 **SPA App Tutorial**
 https://learn.microsoft.com/en-us/azure/active-directory/develop/single-page-app-quickstart
 
-##Authorization##
+##Authorization
 
 **ContactManager Sample App**
 https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/security/authorization/secure-data/samples/
