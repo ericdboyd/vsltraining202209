@@ -73,3 +73,23 @@ https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2
 
 **SPA App Tutorial**
 https://learn.microsoft.com/en-us/azure/active-directory/develop/single-page-app-quickstart
+
+##Authorization##
+
+**ContactManager Sample App**
+https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/security/authorization/secure-data/samples/
+
+**Simple AuthZ**
+https://learn.microsoft.com/en-us/aspnet/core/security/authorization/simple
+
+**Role-based AuthZ**
+https://learn.microsoft.com/en-us/aspnet/core/security/authorization/roles
+
+**Claims-based AuthZ**
+https://learn.microsoft.com/en-us/aspnet/core/security/authorization/claims
+
+**Policy-based AuthZ**
+https://learn.microsoft.com/en-us/aspnet/core/security/authorization/policies
+
+**Resource-based AuthZ**
+https://learn.microsoft.com/en-us/aspnet/core/security/authorization/resourcebased
